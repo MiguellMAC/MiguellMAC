@@ -8,4 +8,5 @@
  ![Python](https://img.shields.io/badge/Python-8E24AA?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
  ![SQL](https://img.shields.io/badge/-SQL-1E90FF?style=for-the-badge&logo=sql&labelColor=1F90FF)&nbsp; 
             
-
+ ### Social media:
+ <a href="https://instagram.com/miguell_cardosow" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

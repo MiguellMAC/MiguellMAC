@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D50000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D50000&size=35&center=true&vCenter=true&width=1000&lines=HELLOOO!+How+do+you+do?;My+name+is+Miguel+Cardoso+😁;I'm+20+years+old;also,+I'm+from+Brazil!!;I+am+currently+studying+Data+science+at+EBAC;+doing+my+degree+on+software+engeneering+at+FIAP+📖;I+can+speak+portuguese,+english;and+a+bit+of+french😅;Feel+free+to+take+a+look+on+my+Github+profile!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D50000&size=35&center=true&vCenter=true&width=1000&lines=HELLOOO!+How+do+you+do?;My+name+is+Miguel+Cardoso+😁;I'm+20+years+old;also,+I'm+from+Brazil!!;I+am+currently+studying+Data+science+at+EBAC;and+I+am+at+university;at+FIAP,+studying+software+engeneering+📖;I+can+speak+portuguese,+english;and+a+bit+of+french😅;Feel+free+to+take+a+look+on+my+Github+profile!+:%29)](https://git.io/typing-svg)
 
 
  
